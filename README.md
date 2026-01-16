@@ -16,7 +16,7 @@ It is fully responsive, mobile-friendly, and showcases my projects, skills, and 
 - JavaScript
 
 ## Live Demo
-Check it out here: [My Portfolio](https://pooja26.github.io/portfolio/)
+Check it out here: [My Portfolio](https://pooja26-maker.github.io/portfolio/)
 
 ## Contact
 Email: vainavi.s.2016@gmail.com
